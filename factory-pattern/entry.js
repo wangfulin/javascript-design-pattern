@@ -7,3 +7,6 @@ circle.draw();
 
 var square = shapeFactory.getShape('square');
 square.draw();
+
+var rectangle = shapeFactory.getShape('rectangle');
+rectangle.draw();
