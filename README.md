@@ -11,6 +11,7 @@
 ## 四：代码实例
 
 目录：
+
 1. [工厂模式](https://github.com/wangfulin/javascript-design-pattern/blob/master/factory/README.md)
 
 2. [抽象工厂模式](https://github.com/wangfulin/javascript-design-pattern/blob/master/abstract-factory/README.md)
