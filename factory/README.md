@@ -1,1 +1,11 @@
-This is factory pattern README.md
+# 工厂模式
+
+## 应用场景
+
+
+
+## 优点
+
+## 学以致用
+
+## 代码实例
