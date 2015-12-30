@@ -1,11 +1,9 @@
 'use strict';
 
 var Observer = require('./observer');
-var Subject = require('./subject');
 
 function HexaObserver(subject){
-	this.subject = subject;
-	this.subject.attach(this);
+	Observer.call(this, subject);
 }
 
 HexaObserver.prototype.update = function(){

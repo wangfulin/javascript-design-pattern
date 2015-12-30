@@ -1,11 +1,9 @@
 'use strict';
 
 var Observer = require('./observer');
-var Subject = require('./subject');
 
 function OctalObserver(subject){
-	this.subject = subject;
-	this.subject.attach(this);
+	Observer.call(this, subject);
 }
 
 OctalObserver.prototype.update = function(){

@@ -19,7 +19,6 @@ Subject.prototype = {
 	},
 	notifyAllObservers: function(){
 		var len = this.observers.length;
-		console.log(len);
 		for(var i=0; i<len; i++){
 			this.observers[i].update();
 		}
