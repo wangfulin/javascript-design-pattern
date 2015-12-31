@@ -8,10 +8,8 @@ function Employee(name, dept, sal){
 
 Employee.prototype = {
 	subordinates: [],
-	add: function(employee){
-		//this.subordinates.push(employee);
-		var _self = this;
-		_self.subordinates.push.call(this, employee);
+	add: function(context, employee){
+		context.subordinates.push(employee);
 	},
 	remove: function(employee){
 		var subordinates = this.subordinates;
@@ -29,8 +27,7 @@ Employee.prototype = {
 		}
 	},
 	getSubordinates: function(){
-		var _self = this;
-		return _self.subordinates;
+		return this.subordinates;
 	},
 	toString: function(){
 		return ('Employee :[ Name : ' + this.name + ', Department : ' + this.dept + ', Salary:' + this.sal + '] ');
