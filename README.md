@@ -24,6 +24,16 @@
 13. [过滤模式](https://github.com/wangfulin/javascript-design-pattern/blob/master/filter/README.md)
 14. [命令模式](https://github.com/wangfulin/javascript-design-pattern/blob/master/command/README.md)
 15. [观察者模式](https://github.com/wangfulin/javascript-design-pattern/blob/master/observer/README.md)
+16. [空对象模式](https://github.com/wangfulin/javascript-design-pattern/blob/master/null/README.md)
+17. [代理模式](https://github.com/wangfulin/javascript-design-pattern/blob/master/proxy/README.md)
+18. [memento模式](https://github.com/wangfulin/javascript-design-pattern/blob/master/memento/README.md)
+19. [参观者模式](https://github.com/wangfulin/javascript-design-pattern/blob/master/visitor/README.md)
+20. [interpreter模式](https://github.com/wangfulin/javascript-design-pattern/blob/master/interpreter/README.md)
+21. [链式责任模式](https://github.com/wangfulin/javascript-design-pattern/blob/master/chain-of-responsibility/README.md)
+22. [模版模式](https://github.com/wangfulin/javascript-design-pattern/blob/master/template/README.md)
+23. [flyweight模式](https://github.com/wangfulin/javascript-design-pattern/blob/master/flyweight/README.md)
+24. [过滤模式](https://github.com/wangfulin/javascript-design-pattern/blob/master/filter/README.md)
+25. [state模式](https://github.com/wangfulin/javascript-design-pattern/blob/master/state/README.md)
 
 参考：
 [design pattern](http://www.tutorialspoint.com/design_pattern/)
