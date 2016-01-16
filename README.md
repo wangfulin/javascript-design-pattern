@@ -34,6 +34,8 @@
 23. [flyweight模式](https://github.com/wangfulin/javascript-design-pattern/blob/master/flyweight/README.md)
 24. [过滤模式](https://github.com/wangfulin/javascript-design-pattern/blob/master/filter/README.md)
 25. [state模式](https://github.com/wangfulin/javascript-design-pattern/blob/master/state/README.md)
+26. [DAO模式](https://github.com/wangfulin/javascript-design-pattern/blob/master/data-access-object/README.md)
+
 
 参考：
 [design pattern](http://www.tutorialspoint.com/design_pattern/)
